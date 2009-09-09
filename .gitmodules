@@ -1,0 +1,9 @@
+[submodule "athena"]
+	path = athena
+	url = git://github.com/blackwinter/athena.git
+[submodule "cmess"]
+	path = cmess
+	url = git://github.com/blackwinter/cmess.git
+[submodule "perseus_match"]
+	path = perseus_match
+	url = git://github.com/blackwinter/perseus_match.git
