@@ -7,3 +7,9 @@
 [submodule "perseus_match"]
 	path = perseus_match
 	url = git://github.com/blackwinter/perseus_match.git
+[submodule "medusa"]
+	path = medusa
+	url = git://github.com/perseus-a/medusa.git
+[submodule "lingo"]
+	path = lingo
+	url = git://github.com/perseus-a/lingo.git
